@@ -6,5 +6,13 @@
     "lastpushDate": "2024-03-05T09:49:38.254Z",
     "gitVersionName": "v1",
     "lastCommitUser": "iitasjad2001 "
+  },
+  "bba2ee53-e848-477d-b129-7489ba40543b": {
+    "gitAppName": "Lead management system",
+    "lastCommitMessage": " v1 Version of app Lead management system promoted from development to staging",
+    "gitVersionId": "dc26585b-5837-47a2-b29f-bd60e608e8e6",
+    "lastpushDate": "2024-04-29T10:46:31.209Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "iitasjad2001 "
   }
 }
