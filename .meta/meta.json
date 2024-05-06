@@ -14,5 +14,13 @@
     "lastpushDate": "2024-04-29T10:46:31.209Z",
     "gitVersionName": "v1",
     "lastCommitUser": "iitasjad2001 "
+  },
+  "0c39b855-de95-4751-8e48-6b2d68045ae4": {
+    "gitAppName": "ToDo App",
+    "lastCommitMessage": " v1 Version of app ToDo App promoted from development to staging",
+    "gitVersionId": "88bf1373-8c2a-4e1a-824c-846a02dd2a07",
+    "lastpushDate": "2024-05-06T08:08:27.621Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "iitasjad2001 "
   }
 }
