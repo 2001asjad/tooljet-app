@@ -17,10 +17,10 @@
   },
   "0c39b855-de95-4751-8e48-6b2d68045ae4": {
     "gitAppName": "ToDo App",
-    "lastCommitMessage": " v1 Version of app ToDo App promoted from development to staging",
-    "gitVersionId": "88bf1373-8c2a-4e1a-824c-846a02dd2a07",
-    "lastpushDate": "2024-05-06T08:08:27.621Z",
-    "gitVersionName": "v1",
+    "lastCommitMessage": " v2 Version of app ToDo App promoted from development to staging",
+    "gitVersionId": "5ba16b67-953f-48f4-8b17-82fd3225adb8",
+    "lastpushDate": "2024-05-06T08:15:15.389Z",
+    "gitVersionName": "v2",
     "lastCommitUser": "iitasjad2001 "
   }
 }
